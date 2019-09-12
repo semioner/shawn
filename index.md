@@ -8,6 +8,8 @@
 
 - [ ] 射箭
 
+- [ ] 地狱拉面
+
 ![image](https://github.com/shawnHsx/shawnHsx.github.io/raw/master/images/ys_list.png)
 
 
