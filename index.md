@@ -1,12 +1,12 @@
 ## 欢迎来到YS宝宝list
 
--[]游戏厅
+- [ ] 游戏厅
 
--[]卡丁车
+- [ ] 卡丁车
 
--[]攀岩
+- [ ] 攀岩
 
--[]射箭
+- [ ] 射箭
 
 ![image](https://github.com/shawnHsx/shawnHsx.github.io/raw/master/images/ys_list.png)
 
