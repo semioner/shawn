@@ -1,5 +1,4 @@
-## shawn
-* 宝宝的list
+## YS宝宝list
 
 *游戏厅
 
